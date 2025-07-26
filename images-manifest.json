@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T19:01:11.685Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "Company logo for VŠE PRO STAVBY.CZ, likely a white variant on a transparent background, used in the header.",
+      "suggested_usage": "Use as the primary logo in the website header and footer. Consider providing an SVG version for scalability.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-project.jpg",
+      "file_name": "gallery-tanvald-project.jpg",
+      "description": "Image showcasing a completed construction project or a work in progress, possibly related to a building or infrastructure, located in Tanvald.",
+      "suggested_usage": "Use in a project gallery, a 'References' section, or as a background image for a specific service related to building construction or renovation. Ensure proper alt text describes the image content for accessibility.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-residential-house-exterior.jpg",
+      "file_name": "content-residential-house-exterior.jpg",
+      "description": "Image of a residential house exterior, likely demonstrating a completed project or an example of their residential construction services.",
+      "suggested_usage": "Use within content sections discussing residential construction, new builds, or renovations. Add more descriptive alt text for better SEO and accessibility, e.g., 'Completed residential house exterior showcasing modern architecture'.",
+      "size_bytes": 558411
+    }
+  ]
+}
